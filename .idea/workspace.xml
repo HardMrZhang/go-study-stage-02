@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1913dd3-9fe8-4a0a-8f21-0bfd5b43a37c" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/GoProject/src/go1.16" />
+  <component name="ProjectId" id="1wfKQ1lqRPp6iFVDesfVb0EjLXS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/net" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/net" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-study-stage-02" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/net/http/client/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-study-stage-02" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/net/udp/serve/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-study-stage-02" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/net/tcp_sticky_packet/serve/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-study-stage-02" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/net/tcp_sticky_packet/client/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-study-stage-02" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/net/http/serve/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build main.go (5)" />
+        <item itemvalue="Go Build.go build main.go (4)" />
+        <item itemvalue="Go Build.go build main.go (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,https://goproxy.io,direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="285" key="GridCell.Tab.0.bottom" timestamp="1628850870479">
+      <screen x="0" y="23" width="1402" height="877" />
+    </state>
+    <state width="2518" height="400" key="GridCell.Tab.0.bottom/-2560.57.2560.1417/0.23.1400.877@-2560.57.2560.1417" timestamp="1628844529330" />
+    <state width="1358" height="400" key="GridCell.Tab.0.bottom/-2560.57.2560.1417/0.23.1401.877@0.23.1401.877" timestamp="1628846831215" />
+    <state width="1358" height="285" key="GridCell.Tab.0.bottom/-2560.57.2560.1417/0.23.1402.877@0.23.1402.877" timestamp="1628850870479" />
+    <state width="1358" height="285" key="GridCell.Tab.0.center" timestamp="1628850870479">
+      <screen x="0" y="23" width="1402" height="877" />
+    </state>
+    <state width="2518" height="400" key="GridCell.Tab.0.center/-2560.57.2560.1417/0.23.1400.877@-2560.57.2560.1417" timestamp="1628844529328" />
+    <state width="1358" height="400" key="GridCell.Tab.0.center/-2560.57.2560.1417/0.23.1401.877@0.23.1401.877" timestamp="1628846831214" />
+    <state width="1358" height="285" key="GridCell.Tab.0.center/-2560.57.2560.1417/0.23.1402.877@0.23.1402.877" timestamp="1628850870479" />
+    <state width="1358" height="285" key="GridCell.Tab.0.left" timestamp="1628850870478">
+      <screen x="0" y="23" width="1402" height="877" />
+    </state>
+    <state width="2518" height="400" key="GridCell.Tab.0.left/-2560.57.2560.1417/0.23.1400.877@-2560.57.2560.1417" timestamp="1628844529328" />
+    <state width="1358" height="400" key="GridCell.Tab.0.left/-2560.57.2560.1417/0.23.1401.877@0.23.1401.877" timestamp="1628846831213" />
+    <state width="1358" height="285" key="GridCell.Tab.0.left/-2560.57.2560.1417/0.23.1402.877@0.23.1402.877" timestamp="1628850870478" />
+    <state width="1358" height="285" key="GridCell.Tab.0.right" timestamp="1628850870479">
+      <screen x="0" y="23" width="1402" height="877" />
+    </state>
+    <state width="2518" height="400" key="GridCell.Tab.0.right/-2560.57.2560.1417/0.23.1400.877@-2560.57.2560.1417" timestamp="1628844529329" />
+    <state width="1358" height="400" key="GridCell.Tab.0.right/-2560.57.2560.1417/0.23.1401.877@0.23.1401.877" timestamp="1628846831215" />
+    <state width="1358" height="285" key="GridCell.Tab.0.right/-2560.57.2560.1417/0.23.1402.877@0.23.1402.877" timestamp="1628850870479" />
+    <state x="183" y="44" key="SettingsEditor" timestamp="1628848373107">
+      <screen x="0" y="23" width="1402" height="877" />
+    </state>
+    <state x="-1771" y="404" key="SettingsEditor/-2560.57.2560.1417/0.23.1400.877@-2560.57.2560.1417" timestamp="1628844358986" />
+    <state x="183" y="44" key="SettingsEditor/-2560.57.2560.1417/0.23.1401.877@0.23.1401.877" timestamp="1628846195415" />
+    <state x="183" y="44" key="SettingsEditor/-2560.57.2560.1417/0.23.1402.877@0.23.1402.877" timestamp="1628848373107" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/net/udp/client/main.go</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

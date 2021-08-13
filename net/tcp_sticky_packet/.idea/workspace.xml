@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f40777a8-c990-4460-991d-3387524858a8" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/GoProject/src/go1.16" />
+  <component name="ProjectId" id="1wfThScfG2j7VJVaS5iiYbdyvM7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build tcp_sticky_packet/client">
+    <configuration name="go build tcp_sticky_packet/client" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="tcp_sticky_packet" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/client/main.go" />
+      <package value="tcp_sticky_packet/client" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build tcp_sticky_packet/serve" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="tcp_sticky_packet" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/serve/main.go" />
+      <package value="tcp_sticky_packet/serve" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build tcp_sticky_packet/client" />
+        <item itemvalue="Go Build.go build tcp_sticky_packet/serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,https://goproxy.io,direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1360" height="223" key="GridCell.Tab.0.bottom" timestamp="1628849382759">
+      <screen x="0" y="23" width="1402" height="877" />
+    </state>
+    <state width="1360" height="223" key="GridCell.Tab.0.bottom/-2560.57.2560.1417/0.23.1402.877@0.23.1402.877" timestamp="1628849382759" />
+    <state width="1360" height="223" key="GridCell.Tab.0.center" timestamp="1628849382758">
+      <screen x="0" y="23" width="1402" height="877" />
+    </state>
+    <state width="1360" height="223" key="GridCell.Tab.0.center/-2560.57.2560.1417/0.23.1402.877@0.23.1402.877" timestamp="1628849382758" />
+    <state width="1360" height="223" key="GridCell.Tab.0.left" timestamp="1628849382758">
+      <screen x="0" y="23" width="1402" height="877" />
+    </state>
+    <state width="1360" height="223" key="GridCell.Tab.0.left/-2560.57.2560.1417/0.23.1402.877@0.23.1402.877" timestamp="1628849382758" />
+    <state width="1360" height="223" key="GridCell.Tab.0.right" timestamp="1628849382759">
+      <screen x="0" y="23" width="1402" height="877" />
+    </state>
+    <state width="1360" height="223" key="GridCell.Tab.0.right/-2560.57.2560.1417/0.23.1402.877@0.23.1402.877" timestamp="1628849382759" />
+    <state x="202" y="100" key="SettingsEditor" timestamp="1628848780728">
+      <screen x="0" y="23" width="1402" height="877" />
+    </state>
+    <state x="202" y="100" key="SettingsEditor/-2560.57.2560.1417/0.23.1402.877@0.23.1402.877" timestamp="1628848780728" />
+  </component>
+</project>
